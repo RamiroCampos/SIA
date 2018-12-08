@@ -15,4 +15,8 @@ esteja com o nível de umidade abaixo do normal.
 
 link com explicação do projeto:
 
-https://docs.google.com/document/d/1SRk32qV6wdD6Xy4uL2QBtTlwtwIUosIE0G-U2pJ-CLk/edit?ts=5c0b095e#
+https://docs.google.com/document/d/1SRk32qV6wdD6Xy4uL2QBtTlwtwIUosIE0G-U2pJ-CLk
+
+link para vídeo do projeto:
+
+https://youtu.be/EnM8pywVxfk
