@@ -12,3 +12,7 @@ esteja com o nível de umidade abaixo do normal.
 2- João Pedro Silva Campos
 
 3- Natanael Lemos
+
+link com explicação do projeto:
+
+https://docs.google.com/document/d/1SRk32qV6wdD6Xy4uL2QBtTlwtwIUosIE0G-U2pJ-CLk/edit?ts=5c0b095e#
